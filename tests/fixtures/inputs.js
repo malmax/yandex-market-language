@@ -149,6 +149,7 @@ const MAX_VALID_INPUT = {
       rec: ["123", "456"],
       vat: "NO_VAT",
       disabled: false,
+      count: 0,
     },
 
     // Free Offer
